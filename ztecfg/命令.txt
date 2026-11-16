@@ -1,0 +1,10 @@
+
+
+
+D:\ztecfg>.\ztecfg.exe -d AESCBC -i .\db_user_cfg.xml -o 1.cfg
+作者：222
+介绍：仅支持中兴光猫3.0配置加解密
+cfgFileDecryAESCBC magic=0x4030201 sign=0x4000000
+cfgFileDecryCRC magic=0x1020304 size=0x64e1f comp_size=0x7739
+
+D:\ztecfg>
