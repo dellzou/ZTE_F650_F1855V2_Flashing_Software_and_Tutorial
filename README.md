@@ -64,12 +64,12 @@ a14be5d00516fc8ca950e97347e4f6e3f535f354254542f746739407aa9e3f46  ztecfg/ztecfg.
 
 ## 相关仓库
 
-同品牌其它机型，命令体系相近，排障时可以互相参照；每个仓库开头都对应一篇文章：
+同品牌其它机型，命令体系或刷机思路相近，排障时可以互相参照；每个仓库开头都对应一篇文章：
 
-- [中兴 F673AV9 / F7015TV3 / F7610M 工具包](https://github.com/dellzou/ZTE_F673AV9_F7015TV3_F7610M_Flashing_Software_and_Tutorial)：中兴 F673AV9 / F7015TV3 / F7610M，一套命令通吃
-- [中兴 F7607P 工具包](https://github.com/dellzou/ZTE_F7607P_Flashing_Software_and_Tutorial)：中兴 F7607P，改地区与电信版固件
-- [中兴 G7610 工具包](https://github.com/dellzou/ZTE_G7610_Flashing_Software_and_Tutorial)：中兴 G7610，工厂模式、setmac 改码、配置解密
-- [中兴 G7615 / G7611 工具包](https://github.com/dellzou/ZTE_G7615_G7611_Flashing_Software_and_Tutorial)：中兴 G7615 / G7611，改地区与分区刷写
+- [中兴 F673AV9 / F7015TV3 / F7610M 工具包](https://github.com/dellzou/ZTE_F673AV9_F7015TV3_F7610M_Flashing_Software_and_Tutorial)：一套命令通吃
+- [中兴 F7607P 工具包](https://github.com/dellzou/ZTE_F7607P_Flashing_Software_and_Tutorial)：改地区与电信版固件
+- [中兴 G7610 工具包](https://github.com/dellzou/ZTE_G7610_Flashing_Software_and_Tutorial)：工厂模式、setmac 改码、配置解密
+- [中兴 G7615 / G7611 工具包](https://github.com/dellzou/ZTE_G7615_G7611_Flashing_Software_and_Tutorial)：改地区与分区刷写
 
 ## 免责声明
 
